@@ -1,0 +1,8 @@
+{
+    "name": "okctl build and push to ECR",
+    "description": "",
+    "iconName": "okctl-gopher-in-circle",
+    "categories": [
+        "Dockerfile"
+    ]
+}
